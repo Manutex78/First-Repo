@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "teste",
+			"path": "../teste"
+		},
+		{
+			"name": "Web-Technologies-Class",
+			"path": "../Web-Technologies-Class"
+		}
+	],
+	"settings": {}
+}
